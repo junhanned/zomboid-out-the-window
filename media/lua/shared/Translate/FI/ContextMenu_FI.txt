@@ -1,4 +1,4 @@
 ContextMenu_FI = {
-	ContextMenu_ThrowCorpseOutTheWindow = "Throw Corpse Out The Window"
-	ContextMenu_ThrowCorpseOverFence = "Throw Corpse Over Fence"
+	ContextMenu_ThrowCorpseOutTheWindow = "Heitä ruumis ulos ikkunasta"
+	ContextMenu_ThrowCorpseOverFence = "Heitä ruumis aidan yli"
 }
